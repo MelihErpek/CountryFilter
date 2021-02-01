@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CountryFilter/static/css/main.cf3f74c8.chunk.css",
+    "main.js": "/CountryFilter/static/js/main.d69a4e6e.chunk.js",
+    "main.js.map": "/CountryFilter/static/js/main.d69a4e6e.chunk.js.map",
+    "runtime-main.js": "/CountryFilter/static/js/runtime-main.9eff4bb1.js",
+    "runtime-main.js.map": "/CountryFilter/static/js/runtime-main.9eff4bb1.js.map",
+    "static/css/2.150d169a.chunk.css": "/CountryFilter/static/css/2.150d169a.chunk.css",
+    "static/js/2.e9e61d8a.chunk.js": "/CountryFilter/static/js/2.e9e61d8a.chunk.js",
+    "static/js/2.e9e61d8a.chunk.js.map": "/CountryFilter/static/js/2.e9e61d8a.chunk.js.map",
+    "static/js/3.9689485c.chunk.js": "/CountryFilter/static/js/3.9689485c.chunk.js",
+    "static/js/3.9689485c.chunk.js.map": "/CountryFilter/static/js/3.9689485c.chunk.js.map",
+    "index.html": "/CountryFilter/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/CountryFilter/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.cf3f74c8.chunk.css.map": "/CountryFilter/static/css/main.cf3f74c8.chunk.css.map",
+    "static/js/2.e9e61d8a.chunk.js.LICENSE.txt": "/CountryFilter/static/js/2.e9e61d8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9eff4bb1.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e9e61d8a.chunk.js",
+    "static/css/main.cf3f74c8.chunk.css",
+    "static/js/main.d69a4e6e.chunk.js"
+  ]
+}
