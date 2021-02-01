@@ -33,7 +33,7 @@ function App() {
       })
     }
     else{
-      result = data.filter(word =>Object.values(word).toString().includes(general)) // general değişkeni stringe çevriliyor filter fonksiyonuyla girilen general stringi apidan elde edilen bilgilerde var mı bakılıyor
+      result = data.filter(word =>Object.values(word).toString().includes(general)) // general değişkeni stringe çevriliyor çünkü eğer obje olarak kalsaydı filter fonksiyonu bire bir eşleşmeye bakacaktı stringe çevrildiği için kelimelerin içerisinde var mı onada bakıyor, filter fonksiyonuyla girilen general stringi apidan elde edilen bilgilerde var mı bakılıyor
       return result.map(country => { // varsa elde edilen objenin bilgilerine göre ekrana tablo bastırılıyor.
         return (
           <tr>
